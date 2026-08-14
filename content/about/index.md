@@ -2,6 +2,8 @@
 title = 'About'
 url = 'about'
 +++
+<div class="content-mobile">
+ 
 ![Official Banner](https://github.com/user-attachments/assets/e51efbf6-618c-4e01-8619-18c92d064eea)
 
 ![](https://github.com/user-attachments/assets/cb41b951-e50e-4718-84cc-58b743671d68)
@@ -30,3 +32,5 @@ I'm available on:
 My Skills:
 
 ![](https://skills.syvixor.com/api/icons?i=html,css3,python,typescript,javascript,grok,x,xaml,termux,mysql,windows,microsoftaccess,microsoftexcel,yaml,googlegemini,scratch,adobephotoshop,android,youtube,androidstudio,aseprite,batch,linuxmint,visualstudiocode,gitbash,githubcopilot,github,githubpages,githubactions,vercel,hugo,markdown,c,capcut,brave,csv,googlechrome,adobeacrobat,aseprite,deepseek,discord,electron,gmail,googlegemini,googledrive,inkscape,linux,msdos,openvpn,peazip,protonvpn,qoder,sql,steam,svg,tailwindcss,toml,unity,veracrypt,virtualbox,vite,react&perline=7&radius=85)
+
+</div>
