@@ -1,23 +1,30 @@
-/* Hide desktop by default on mobile */
-.content-desktop {
-  display: none;
+/* 
+   IMPORTANT: This file must be loaded by your theme.
+   If it's not working, you may need to edit layouts/index.html 
+   or layouts/_default/baseof.html to include it.
+*/
+
+/* Default: Hide both initially to prevent flicker */
+.content-mobile, .content-desktop {
+  display: none !important;
 }
 
-/* Hide mobile by default on desktop */
-@media (max-width: 768px) {
-  .content-desktop {
-    display: none;
-  }
+/* Mobile View (Max width 768px) */
+@media screen and (max-width: 768px) {
   .content-mobile {
-    display: block;
+    display: block !important;
+  }
+  .content-desktop {
+    display: none !important;
   }
 }
 
-@media (min-width: 769px) {
+/* Desktop View (Min width 769px) */
+@media screen and (min-width: 769px) {
   .content-desktop {
-    display: block;
+    display: block !important;
   }
   .content-mobile {
-    display: none;
+    display: none !important;
   }
 }
