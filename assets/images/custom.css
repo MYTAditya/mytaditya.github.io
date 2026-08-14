@@ -1,0 +1,23 @@
+/* Hide desktop by default on mobile */
+.content-desktop {
+  display: none;
+}
+
+/* Hide mobile by default on desktop */
+@media (max-width: 768px) {
+  .content-desktop {
+    display: none;
+  }
+  .content-mobile {
+    display: block;
+  }
+}
+
+@media (min-width: 769px) {
+  .content-desktop {
+    display: block;
+  }
+  .content-mobile {
+    display: none;
+  }
+}
