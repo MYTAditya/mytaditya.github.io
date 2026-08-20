@@ -6,8 +6,10 @@ url = 'about'
 <div align='center'>
  
 ![Official Banner](https://github.com/user-attachments/assets/e51efbf6-618c-4e01-8619-18c92d064eea)
+
 ![](https://github.com/user-attachments/assets/cb41b951-e50e-4718-84cc-58b743671d68)
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A9E43A&center=true&width=1000&lines=Mastered+YT+Aditya;Game+Dev+%7C+Gamer+%7C+Artist+%7C+Animator;Developer+by+Code%2C+Artist+by+Passion%2C+Gamer+by+Heart!;Turning+Ideas+into+Games%2C+Apps+%26+Videos+-+One+Click+at+a+Time!;Gaming+%2B+Art+%2B+Coding+%3D+The+MYTAditya+Universe!;Create%2C+Code%2C+Play%2C+Animate%2C+Build+-+The+Ultimate+Digital+Creator!;From+Games+to+Apps%2C+Art+to+Code+-+One+Channel%2C+Endless+Skills!;MYTAditya%3A+From+Player+to+Creator!;MYTAditya%3A+Play%2C+Develop%2C+Dominate!;MYTAditya%3A+Logic+in+Code%2C+Creativity+in+Art!;MYTAditya%3A+Mastering+Every+Pixel+%26+Line+of+Code!)
+
+<img width="385" alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A9E43A&center=true&width=1000&lines=Mastered+YT+Aditya;Game+Dev+%7C+Gamer+%7C+Artist+%7C+Animator;Developer+by+Code%2C+Artist+by+Passion%2C+Gamer+by+Heart!;Turning+Ideas+into+Games%2C+Apps+%26+Videos+-+One+Click+at+a+Time!;Gaming+%2B+Art+%2B+Coding+%3D+The+MYTAditya+Universe!;Create%2C+Code%2C+Play%2C+Animate%2C+Build+-+The+Ultimate+Digital+Creator!;From+Games+to+Apps%2C+Art+to+Code+-+One+Channel%2C+Endless+Skills!;MYTAditya%3A+From+Player+to+Creator!;MYTAditya%3A+Play%2C+Develop%2C+Dominate!;MYTAditya%3A+Logic+in+Code%2C+Creativity+in+Art!;MYTAditya%3A+Mastering+Every+Pixel+%26+Line+of+Code!" />
 
 Hi guys! It's me, Aditya! I'm from India and welcome to my official website. I'm a big fan of Sonic and Minecraft but also play other kind of games on my YouTube. I'm not only a gamer but also a developer. I've developed a bunch of tools and apps which you'll get on my GitHub.
 I've also drawn digital arts and made a couple of animation clips.
