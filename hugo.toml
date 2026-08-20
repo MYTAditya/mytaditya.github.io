@@ -51,6 +51,10 @@ theme = "mana"
   pageSize = 10
   
 [markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+	  
   [markup.tableOfContents]
     startLevel = 1
     endLevel = 6
