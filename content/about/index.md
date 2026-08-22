@@ -24,7 +24,7 @@ Hi guys! It's me, Aditya! I'm from India and welcome to my official website. I'm
 I've also drawn digital arts and made a couple of animation clips.
 
 I'm available on:
-
+<!--
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/@MasteredYTAditya)
 [![𝕏](https://img.shields.io/badge/%F0%9D%95%8F-000000?style=for-the-badge&logo=x)](https://x.com/MYTAditya)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=ffffff)](https://www.reddit.com/user/MYTAdityaOfficial)
@@ -42,7 +42,7 @@ I'm available on:
 My Skills:
 
 ![](https://skills.syvixor.com/api/icons?i=html,css3,python,typescript,javascript,grok,x,xaml,termux,mysql,windows,microsoftaccess,microsoftexcel,yaml,googlegemini,scratch,adobephotoshop,android,youtube,androidstudio,aseprite,batch,linuxmint,visualstudiocode,gitbash,githubcopilot,github,githubpages,githubactions,vercel,hugo,markdown,c,capcut,brave,csv,googlechrome,adobeacrobat,aseprite,deepseek,discord,electron,gmail,googlegemini,googledrive,inkscape,linux,msdos,openvpn,peazip,protonvpn,qoder,sql,steam,svg,tailwindcss,toml,unity,veracrypt,virtualbox,vite,react&perline=7&radius=85)
-    `;
+-->    `;
   } else {
     // Content to show on desktop screens
     container.innerHTML = `
@@ -58,7 +58,7 @@ Hi guys! It's me, Aditya! I'm from India and welcome to my official website. I'm
 I've also drawn digital arts and made a couple of animation clips.
 
 I'm available on:
-
+<!--
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/@MasteredYTAditya)
 [![𝕏](https://img.shields.io/badge/%F0%9D%95%8F-000000?style=for-the-badge&logo=x)](https://x.com/MYTAditya)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=ffffff)](https://www.reddit.com/user/MYTAdityaOfficial)
@@ -76,7 +76,7 @@ I'm available on:
 My Skills:
 
 ![](https://skills.syvixor.com/api/icons?i=html,css3,python,typescript,javascript,grok,x,xaml,termux,mysql,windows,microsoftaccess,microsoftexcel,yaml,googlegemini,scratch,adobephotoshop,android,youtube,androidstudio,aseprite,batch,linuxmint,visualstudiocode,gitbash,githubcopilot,github,githubpages,githubactions,vercel,hugo,markdown,c,capcut,brave,csv,googlechrome,adobeacrobat,aseprite,deepseek,discord,electron,gmail,googlegemini,googledrive,inkscape,linux,msdos,openvpn,peazip,protonvpn,qoder,sql,steam,svg,tailwindcss,toml,unity,veracrypt,virtualbox,vite,react&perline=15&radius=85)
-    `;
+-->`;
   }
 });
 </script>
