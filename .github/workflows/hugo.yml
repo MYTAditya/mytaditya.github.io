@@ -1,3 +1,7 @@
+# Original Code from: https://github.com/cyberwirez-ph/cyberwirez-ph.github.io
+# On the same directory.
+# By cyberwirez-ph under Public Domain.
+
 name: Deploy Hugo site to Pages
 
 on:
