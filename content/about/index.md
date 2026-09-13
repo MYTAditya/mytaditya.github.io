@@ -5,7 +5,7 @@ url = 'about'
   
 <script>
   document.addEventListener("DOMContentLoaded", function() {
-  // Target the container element in your page
+  // Target the container element
   var container = document.getElementById("dynamic-about-text");
 
   // Check the viewport width
@@ -20,11 +20,10 @@ url = 'about'
 
 <img width="385" alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A9E43A&center=true&width=1000&lines=Mastered+YT+Aditya;Game+Dev+%7C+Gamer+%7C+Artist+%7C+Animator;Developer+by+Code%2C+Artist+by+Passion%2C+Gamer+by+Heart!;Turning+Ideas+into+Games%2C+Apps+%26+Videos+-+One+Click+at+a+Time!;Gaming+%2B+Art+%2B+Coding+%3D+The+MYTAditya+Universe!;Create%2C+Code%2C+Play%2C+Animate%2C+Build+-+The+Ultimate+Digital+Creator!;From+Games+to+Apps%2C+Art+to+Code+-+One+Channel%2C+Endless+Skills!;MYTAditya%3A+From+Player+to+Creator!;MYTAditya%3A+Play%2C+Develop%2C+Dominate!;MYTAditya%3A+Logic+in+Code%2C+Creativity+in+Art!;MYTAditya%3A+Mastering+Every+Pixel+%26+Line+of+Code!" />
 
-Hi guys! It's me, Aditya! I'm from India and welcome to my official website. I'm a big fan of Sonic and Minecraft but also play other kind of games on my YouTube. I'm not only a gamer but also a developer. I've developed a bunch of tools and apps which you'll get on my GitHub.
-I've also drawn digital arts and made a couple of animation clips.
+Hi guys! It's me, Aditya! I'm from India and welcome to my official website. I'm a big fan of Sonic and Minecraft but also play other kind of games on my YouTube. I'm not only a gamer but also a developer. I've developed a bunch of tools, apps and games which you'll get on my GitHub and GameJolt. I've also drawn digital arts and made a couple of animation clips and have a good knowledge in AI, Cyber Security and other fields.<br>
 
 I'm available on:
-<!--
+
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/@MasteredYTAditya)
 [![𝕏](https://img.shields.io/badge/%F0%9D%95%8F-000000?style=for-the-badge&logo=x)](https://x.com/MYTAditya)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=ffffff)](https://www.reddit.com/user/MYTAdityaOfficial)
@@ -42,7 +41,7 @@ I'm available on:
 My Skills:
 
 ![](https://skills.syvixor.com/api/icons?i=html,css3,python,typescript,javascript,grok,x,xaml,termux,mysql,windows,microsoftaccess,microsoftexcel,yaml,googlegemini,scratch,adobephotoshop,android,youtube,androidstudio,aseprite,batch,linuxmint,visualstudiocode,gitbash,githubcopilot,github,githubpages,githubactions,vercel,hugo,markdown,c,capcut,brave,csv,googlechrome,adobeacrobat,aseprite,deepseek,discord,electron,gmail,googlegemini,googledrive,inkscape,linux,msdos,openvpn,peazip,protonvpn,qoder,sql,steam,svg,tailwindcss,toml,unity,veracrypt,virtualbox,vite,react&perline=7&radius=85)
--->    `;
+`;
   } else {
     // Content to show on desktop screens
     container.innerHTML = `
@@ -54,11 +53,10 @@ My Skills:
 
 <img width="1000" alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A9E43A&center=true&width=1000&lines=Mastered+YT+Aditya;Game+Dev+%7C+Gamer+%7C+Artist+%7C+Animator;Developer+by+Code%2C+Artist+by+Passion%2C+Gamer+by+Heart!;Turning+Ideas+into+Games%2C+Apps+%26+Videos+-+One+Click+at+a+Time!;Gaming+%2B+Art+%2B+Coding+%3D+The+MYTAditya+Universe!;Create%2C+Code%2C+Play%2C+Animate%2C+Build+-+The+Ultimate+Digital+Creator!;From+Games+to+Apps%2C+Art+to+Code+-+One+Channel%2C+Endless+Skills!;MYTAditya%3A+From+Player+to+Creator!;MYTAditya%3A+Play%2C+Develop%2C+Dominate!;MYTAditya%3A+Logic+in+Code%2C+Creativity+in+Art!;MYTAditya%3A+Mastering+Every+Pixel+%26+Line+of+Code!" />
 
-Hi guys! It's me, Aditya! I'm from India and welcome to my official website. I'm a big fan of Sonic and Minecraft but also play other kind of games on my YouTube. I'm not only a gamer but also a developer. I've developed a bunch of tools and apps which you'll get on my GitHub.
-I've also drawn digital arts and made a couple of animation clips.
+Hi guys! It's me, Aditya! I'm from India and welcome to my official website. I'm a big fan of Sonic and Minecraft but also play other kind of games on my YouTube. I'm not only a gamer but also a developer. I've developed a bunch of tools, apps and games which you'll get on my GitHub and GameJolt. I've also drawn digital arts and made a couple of animation clips and have a good knowledge in AI, Cyber Security and other fields.<br>
 
 I'm available on:
-<!--
+
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/@MasteredYTAditya)
 [![𝕏](https://img.shields.io/badge/%F0%9D%95%8F-000000?style=for-the-badge&logo=x)](https://x.com/MYTAditya)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=ffffff)](https://www.reddit.com/user/MYTAdityaOfficial)
@@ -76,7 +74,7 @@ I'm available on:
 My Skills:
 
 ![](https://skills.syvixor.com/api/icons?i=html,css3,python,typescript,javascript,grok,x,xaml,termux,mysql,windows,microsoftaccess,microsoftexcel,yaml,googlegemini,scratch,adobephotoshop,android,youtube,androidstudio,aseprite,batch,linuxmint,visualstudiocode,gitbash,githubcopilot,github,githubpages,githubactions,vercel,hugo,markdown,c,capcut,brave,csv,googlechrome,adobeacrobat,aseprite,deepseek,discord,electron,gmail,googlegemini,googledrive,inkscape,linux,msdos,openvpn,peazip,protonvpn,qoder,sql,steam,svg,tailwindcss,toml,unity,veracrypt,virtualbox,vite,react&perline=15&radius=85)
--->`;
+`;
   }
 });
 </script>
