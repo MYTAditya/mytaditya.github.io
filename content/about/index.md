@@ -12,11 +12,9 @@ url = 'about'
   if (window.innerWidth <= 768) {
     // Content to show on mobile screens
     container.innerHTML = `
-<img width="385" alt="Official Banner" src="https://github.com/user-attachments/assets/1e0f2de6-d00b-4573-896d-c0777fcf776e"
- />
+<img width="385" alt="Official Banner" src="https://github.com/user-attachments/assets/1e0f2de6-d00b-4573-896d-c0777fcf776e" />
 
-<img width="385" alt="---" src="https://www.animatedimages.org/data/media/562/animated-line-image-0386.gif" 
- />
+<img width="385" alt="---" src="https://www.animatedimages.org/data/media/562/animated-line-image-0386.gif" />
 
 <img width="385" alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A9E43A&center=true&width=1000&lines=Mastered+YT+Aditya;Game+Dev+%7C+Gamer+%7C+Artist+%7C+Animator;Developer+by+Code%2C+Artist+by+Passion%2C+Gamer+by+Heart!;Turning+Ideas+into+Games%2C+Apps+%26+Videos+-+One+Click+at+a+Time!;Gaming+%2B+Art+%2B+Coding+%3D+The+MYTAditya+Universe!;Create%2C+Code%2C+Play%2C+Animate%2C+Build+-+The+Ultimate+Digital+Creator!;From+Games+to+Apps%2C+Art+to+Code+-+One+Channel%2C+Endless+Skills!;MYTAditya%3A+From+Player+to+Creator!;MYTAditya%3A+Play%2C+Develop%2C+Dominate!;MYTAditya%3A+Logic+in+Code%2C+Creativity+in+Art!;MYTAditya%3A+Mastering+Every+Pixel+%26+Line+of+Code!" />
 
@@ -36,16 +34,14 @@ I'm available on:<br>
 <a href="https://steamcommunity.com/id/mytaditya"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&amp;logo=steam" alt="Steam"></a>
 <a href="https://github.com/MYTAditya"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github" alt="GitHub"></a><br>
 My Skills:<br>
-<img src="https://skills.syvixor.com/api/icons?i=html,css3,python,typescript,javascript,grok,x,xaml,termux,mysql,windows,microsoftaccess,microsoftexcel,yaml,googlegemini,scratch,adobephotoshop,android,youtube,androidstudio,aseprite,batch,linuxmint,visualstudiocode,gitbash,githubcopilot,github,githubpages,githubactions,vercel,hugo,markdown,c,capcut,brave,csv,googlechrome,adobeacrobat,aseprite,deepseek,discord,electron,gmail,googlegemini,googledrive,inkscape,linux,msdos,openvpn,peazip,protonvpn,qoder,sql,steam,svg,tailwindcss,toml,unity,veracrypt,virtualbox,vite,react&amp;perline=7&amp;radius=85" alt="Skills Icons">
+<img src="https://skills.syvixor.com/api/icons?i=html,css3,python,typescript,javascript,grok,x,xaml,termux,mysql,windows,microsoftaccess,microsoftexcel,yaml,scratch,adobephotoshop,android,youtube,androidstudio,aseprite,batch,linuxmint,visualstudiocode,gitbash,githubcopilot,github,githubpages,githubactions,vercel,hugo,markdown,c,capcut,brave,csv,googlechrome,adobeacrobat,aseprite,deepseek,discord,electron,gmail,googlegemini,googledrive,inkscape,linux,msdos,openvpn,peazip,protonvpn,sql,steam,svg,tailwindcss,toml,unity,veracrypt,virtualbox,bolt,vite,react,vue,claudeai,googlecolaboratory&amp;perline=7&amp;radius=85" alt="Skills Icons">
 `;
   } else {
     // Content to show on desktop screens
     container.innerHTML = `
-<img width="1000" alt="Official Banner" src="https://github.com/user-attachments/assets/1e0f2de6-d00b-4573-896d-c0777fcf776e"
- />
+<img width="1000" alt="Official Banner" src="https://github.com/user-attachments/assets/1e0f2de6-d00b-4573-896d-c0777fcf776e" />
 
-<img width="1000" alt="---" src="https://www.animatedimages.org/data/media/562/animated-line-image-0386.gif" 
- />
+<img width="1000" alt="---" src="https://www.animatedimages.org/data/media/562/animated-line-image-0386.gif" />
 
 <img width="1000" alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A9E43A&center=true&width=1000&lines=Mastered+YT+Aditya;Game+Dev+%7C+Gamer+%7C+Artist+%7C+Animator;Developer+by+Code%2C+Artist+by+Passion%2C+Gamer+by+Heart!;Turning+Ideas+into+Games%2C+Apps+%26+Videos+-+One+Click+at+a+Time!;Gaming+%2B+Art+%2B+Coding+%3D+The+MYTAditya+Universe!;Create%2C+Code%2C+Play%2C+Animate%2C+Build+-+The+Ultimate+Digital+Creator!;From+Games+to+Apps%2C+Art+to+Code+-+One+Channel%2C+Endless+Skills!;MYTAditya%3A+From+Player+to+Creator!;MYTAditya%3A+Play%2C+Develop%2C+Dominate!;MYTAditya%3A+Logic+in+Code%2C+Creativity+in+Art!;MYTAditya%3A+Mastering+Every+Pixel+%26+Line+of+Code!" />
 
@@ -65,7 +61,7 @@ I'm available on:<br>
 <a href="https://steamcommunity.com/id/mytaditya"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&amp;logo=steam" alt="Steam"></a>
 <a href="https://github.com/MYTAditya"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github" alt="GitHub"></a><br>
 My Skills:<br>
-<img src="https://skills.syvixor.com/api/icons?i=html,css3,python,typescript,javascript,grok,x,xaml,termux,mysql,windows,microsoftaccess,microsoftexcel,yaml,googlegemini,scratch,adobephotoshop,android,youtube,androidstudio,aseprite,batch,linuxmint,visualstudiocode,gitbash,githubcopilot,github,githubpages,githubactions,vercel,hugo,markdown,c,capcut,brave,csv,googlechrome,adobeacrobat,aseprite,deepseek,discord,electron,gmail,googlegemini,googledrive,inkscape,linux,msdos,openvpn,peazip,protonvpn,qoder,sql,steam,svg,tailwindcss,toml,unity,veracrypt,virtualbox,vite,react&amp;perline=15&amp;radius=85" alt="Skill Icons">
+<img src="https://skills.syvixor.com/api/icons?i=html,css3,python,typescript,javascript,grok,x,xaml,termux,mysql,windows,microsoftaccess,microsoftexcel,yaml,scratch,adobephotoshop,android,youtube,androidstudio,aseprite,batch,linuxmint,visualstudiocode,gitbash,githubcopilot,github,githubpages,githubactions,vercel,hugo,markdown,c,capcut,brave,csv,googlechrome,adobeacrobat,aseprite,deepseek,discord,electron,gmail,googlegemini,googledrive,inkscape,linux,msdos,openvpn,peazip,protonvpn,sql,steam,svg,tailwindcss,toml,unity,veracrypt,virtualbox,bolt,vite,react,vue,claudeai,googlecolaboratory&amp;perline=15&amp;radius=85" alt="Skill Icons">
 `;
   }
 });
