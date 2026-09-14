@@ -1,0 +1,2 @@
+*.yml linguist-detectable=true linguist-vendored=false
+*.toml linguist-detectable=true
