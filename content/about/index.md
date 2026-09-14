@@ -18,6 +18,7 @@ I'm available on:
 My Skills:
 
 <img id="skills-img" alt="Skills Icons" src="https://skills.syvixor.com/api/icons?i=html,css3,python,typescript,javascript,grok,x,xaml,termux,mysql,windows,microsoftaccess,microsoftexcel,yaml,scratch,adobephotoshop,android,youtube,androidstudio,aseprite,batch,linuxmint,visualstudiocode,gitbash,githubcopilot,github,githubpages,githubactions,vercel,hugo,markdown,c,capcut,brave,csv,googlechrome,adobeacrobat,aseprite,deepseek,discord,electron,gmail,googlegemini,googledrive,inkscape,linux,msdos,openvpn,peazip,protonvpn,sql,steam,svg,tailwindcss,toml,unity,veracrypt,virtualbox,bolt,vite,react,vue,claudeai,googlecolaboratory,reddit,gimp,7zip,bash,eslint,git,json,makecode,notepadplusplus,nodejs,npm,obs,powershell,pypi,regex,shizuku,virustotal,vlc&perline=15&radius=85" />
+
 <script>
   document.addEventListener("DOMContentLoaded", function() {
     var isMobile = window.innerWidth <= 768;
