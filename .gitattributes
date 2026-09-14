@@ -1,2 +1,4 @@
 *.yml linguist-detectable=true linguist-vendored=false
 *.toml linguist-detectable=true
+*.md linguist-documentation=false linguist-detectable=true
+content/posts/*.md linguist-detectable=false
