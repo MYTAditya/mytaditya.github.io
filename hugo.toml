@@ -9,7 +9,7 @@ theme = "mana"
 
 [params]
   description = "Get the latest official updates from Mastered YT Aditya at here!"
-  favicon = "favicon/favicon.ico"
+  favicon = "favicon.ico"
   heroTitleLine1 = "Mastered YT Aditya's"
   heroTitleLine2 = "Official Website"
 
