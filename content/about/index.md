@@ -3,7 +3,8 @@ title = 'About'
 url = 'about'
 +++
 
-<img id="banner-img" width="900" alt="Official Banner" src="https://github.com/user-attachments/assets/1e0f2de6-d00b-4573-896d-c0777fcf776e" />
+<!-- The banner is distributed under CC-BY-SA-4.0 -->
+<img id="banner-img" width="900" alt="Official Banner" src="https://github.com/user-attachments/assets/adb9c341-1853-427a-99af-7adb1d5008ee" />
 
 <img id="line-img" width="900" alt="---" src="https://www.animatedimages.org/data/media/562/animated-line-image-0386.gif" />
 
@@ -17,7 +18,7 @@ I'm available on:
 
 My Skills:
 
-<img id="skills-img" alt="Skills Icons" src="https://skills.syvixor.com/api/icons?i=html,css3,python,typescript,javascript,grok,x,xaml,termux,mysql,windows,microsoftaccess,microsoftexcel,yaml,scratch,adobephotoshop,android,youtube,androidstudio,aseprite,batch,linuxmint,visualstudiocode,gitbash,githubcopilot,github,githubpages,githubactions,vercel,hugo,markdown,c,capcut,brave,csv,googlechrome,adobeacrobat,aseprite,deepseek,discord,electron,gmail,googlegemini,googledrive,inkscape,linux,msdos,openvpn,peazip,protonvpn,sql,steam,svg,tailwindcss,toml,unity,veracrypt,virtualbox,bolt,vite,react,vue,claudeai,googlecolaboratory,reddit,gimp,7zip,bash,eslint,git,json,makecode,notepadplusplus,nodejs,npm,obs,powershell,pypi,regex,shizuku,virustotal,vlc&perline=15&radius=85" />
+<img id="skills-img" alt="Skills Icons" src="https://skills.syvixor.com/api/icons?i=html,css3,python,typescript,javascript,grok,x,xaml,termux,mysql,windows,microsoftaccess,microsoftexcel,yaml,scratch,adobephotoshop,android,youtube,androidstudio,aseprite,batch,linuxmint,visualstudiocode,gitbash,githubcopilot,github,githubpages,githubactions,vercel,hugo,markdown,c,capcut,brave,csv,googlechrome,adobeacrobat,aseprite,deepseek,discord,electron,gmail,googlegemini,googledrive,inkscape,linux,msdos,openvpn,peazip,protonvpn,sql,steam,svg,tailwindcss,toml,unity,veracrypt,virtualbox,bolt,vite,react,vue,claudeai,googlecolaboratory,reddit,gimp,7zip,bash,eslint,git,json,makecode,notepadplusplus,nodejs,obs,powershell,regex,shizuku,virustotal,vlc&perline=15&radius=85" />
 
 <script>
   document.addEventListener("DOMContentLoaded", function() {
