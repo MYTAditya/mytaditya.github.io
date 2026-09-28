@@ -12,6 +12,7 @@ theme = "mana"
   favicon = "favicon.ico"
   heroTitleLine1 = "Mastered YT Aditya's"
   heroTitleLine2 = "Official Website"
+  footerText = '<a href="https://creativecommons.org/licenses/by-sa/4.0"><img src="https://github.com/user-attachments/assets/1d4934d4-8c8d-428f-88dd-f49b88a89e59" alt="CC-BY-SA-4.0"></a>'
 
 [params.avatar]
   [params.avatar.home]
