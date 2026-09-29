@@ -16,6 +16,6 @@ You might think that why the whole website is open-source, because it'll turn in
 Hugo Mana Theme: Copyright (c) 2024 Livour under MIT License. All rights reserved.
 This website is distributed under DO WHAT THE F*CK YOU WANT TO PUBLIC LICENSE.
 
-All posts are available under [![CC-BY-SA-4.0](https://github.com/user-attachments/assets/1d4934d4-8c8d-428f-88dd-f49b88a89e59)](https://creativecommons.org/licenses/by-sa/4.0)
+All posts are available under: [<img src="https://github.com/user-attachments/assets/1d4934d4-8c8d-428f-88dd-f49b88a89e59" alt="CC-BY-SA-4.0" height="42" />](https://creativecommons.org/licenses/by-sa/4.0)
 
-Official Logo, PFP and Banner are available under [![CC-BY-NC-ND-4.0](https://github.com/user-attachments/assets/648f5aa5-b462-4beb-9f54-5a5900a6632b)](https://creativecommons.org/licenses/by-nc-nd/4.0)
+Official Logo, PFP and Banner are available under: [<img src="https://github.com/user-attachments/assets/648f5aa5-b462-4beb-9f54-5a5900a6632b" alt="CC-BY-SA-4.0" height="42" />](https://creativecommons.org/licenses/by-nc-nd/4.0) 
