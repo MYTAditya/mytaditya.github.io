@@ -5,17 +5,18 @@
 ![](https://img.shields.io/github/stars/MYTAditya/MYTAditya-Website?style=for-the-badge&logo=GitHub&color=01c45b)
 ![](https://visitor-badge.laobi.icu/badge?page_id=MYTAditya.MYTAditya-Website&left_text=VISITORS&logo=github&radius=0)
 
-This is the code for my official website where I publish my blogs. It's built with Hugo and Mana Theme.
+This is the code for my official website where I publish my blogs. Built with Hugo and Mana Theme.
 
 ### Why it's open-source?
 
-You might think that why the whole website is open-source, because it'll turn into a huge website someday. Well, the reason is I want that everyone should learn and make their own websites using my website. And that's why I've not only made this open-source but also licensed under WTFPLv2. So, enjoy!
+You might think that why the whole website is open-source, because it'll turn into a huge website someday. Well, the reason is I want that everyone should learn and make their own websites using my website. And that's why I've not only made this open-source but also licensed under WTFPL. So, enjoy!
 
 ### Copyright Notices
 
-Hugo Mana Theme: Copyright (c) 2024 Livour under MIT License. All rights reserved.
-This website is distributed under DO WHAT THE F*CK YOU WANT TO PUBLIC LICENSE.
+Except where otherwise noted, the source code for this website is provided under the DO WHAT THE F*CK YOU WANT PUBLIC LICENSE. Certain portions are subject to different licensing terms.
 
-All posts are available under: [<img src="https://github.com/user-attachments/assets/1d4934d4-8c8d-428f-88dd-f49b88a89e59" alt="CC-BY-SA-4.0" height="42" />](https://creativecommons.org/licenses/by-sa/4.0)
+Hugo Mana Theme (`./themes`): Copyright (c) 2024 Livour under MIT License. All rights reserved.
 
-Official Logo, PFP and Banner are available under: [<img src="https://github.com/user-attachments/assets/648f5aa5-b462-4beb-9f54-5a5900a6632b" alt="CC-BY-SA-4.0" height="42" />](https://creativecommons.org/licenses/by-nc-nd/4.0) 
+All posts (the files in `./content/posts`) are available under: [<img src="https://github.com/user-attachments/assets/1d4934d4-8c8d-428f-88dd-f49b88a89e59" alt="CC-BY-SA-4.0" height="42" />](https://creativecommons.org/licenses/by-sa/4.0)
+
+Official Logo, PFP and Banner are available under (the files in `./assets/images`, `./static` and the banner picture of `./content/about/index.md`): [<img src="https://github.com/user-attachments/assets/648f5aa5-b462-4beb-9f54-5a5900a6632b" alt="CC-BY-SA-4.0" height="42" />](https://creativecommons.org/licenses/by-nc-nd/4.0) 
