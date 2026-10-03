@@ -1,7 +1,7 @@
-+++
-title = 'About'
-url = 'about'
-+++
+---
+title: 'About'
+url: 'about'
+---
 
 <!-- The banner is distributed under CC-BY-NC-ND-4.0 -->
 <img id="banner-img" width="900" alt="Official Banner" src="https://github.com/user-attachments/assets/adb9c341-1853-427a-99af-7adb1d5008ee" />
