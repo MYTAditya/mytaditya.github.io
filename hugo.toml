@@ -3,9 +3,8 @@ locale = "en-us"
 title = "Mastered YT Aditya's Official Website"
 theme = "mana"
 
-[caches]
-  [caches.images]
-    dir = ':cacheDir/images'
+[outputs]
+  home = ["HTML", "JSON"]
 
 [params]
   description = "Get the latest official updates from Mastered YT Aditya at here!"
@@ -23,29 +22,30 @@ theme = "mana"
 [params.social]
   github = "https://github.com/MYTAditya"
   twitter = "MYTAditya"
+  email = "mytaditya@proton.me"
 
 [params.codeHighlight]
   darkTheme = "aura-theme-dark"
   lightTheme = "catppuccin-frappe"
   
 [[menus.main]]
-  name = 'Home'
-  pageRef = '/'
+  name = "Home"
+  pageRef = "/"
   weight = 10
 
 [[menus.main]]
-  name = 'Posts'
-  pageRef = '/posts'
+  name = "Articles"
+  pageRef = "/articles"
   weight = 20
 
 [[menus.main]]
-  name = 'Tags'
-  pageRef = '/tags'
+  name = "Tags"
+  pageRef = "/tags"
   weight = 30
 
 [[menus.main]]
-  name = 'About'
-  url = '/about'
+  name = "About"
+  url = "/about"
   weight = 40
   
 [pagination]
