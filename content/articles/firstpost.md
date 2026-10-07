@@ -8,3 +8,8 @@ Hi guys! It's me, Aditya! This is to inform you that I'm building my website and
 Contents and Updates are coming soon. This is just like an alpha build of the website. So stay tuned!
 # The Interesting Part
 This is my first post, but it has been edited a lot of times! Here's the [log](https://github.com/MYTAditya/mytaditya.vercel.app/commits/master/content/posts/firstpost.md).
+# This will be deleted
+Yeah this post will be deleted shortly.
+```python
+print("Hello World")
+```
