@@ -21,15 +21,6 @@
   font-size: 1.25rem;
 }
 
-/* Code blocks had zero inner padding, making them look cramped/unstyled */
-.post-content-main pre.chroma,
-.post-content-main .chroma {
-  padding: 1rem 1.25rem;
-  font-size: 0.85rem;
-  line-height: 1.6;
-  border-radius: 0.5rem;
-}
-
 /* Code block wrapper needs breathing room from surrounding paragraphs */
 .post-content-main .code-block-wrapper {
   margin: var(--spacing-lg) 0;
