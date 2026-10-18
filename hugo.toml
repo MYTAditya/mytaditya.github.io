@@ -7,7 +7,7 @@ theme = "mana"
   home = ["HTML", "JSON"]
 
 [params]
-  description = "Get the latest official updates from Mastered YT Aditya at here!"
+  description = "Get the latest official articles from Mastered YT Aditya at here!"
   favicon = "favicon.ico"
   heroTitleLine1 = "Mastered YT Aditya's"
   heroTitleLine2 = "Official Website"
