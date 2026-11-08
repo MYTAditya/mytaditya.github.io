@@ -1,12 +1,10 @@
 {{- $pctx := . -}}
 {{- if .IsHome -}}{{ $pctx = .Site }}{{- end -}}
 
-{{/* Filter strictly to your target content section and exclude drafts or static pages */}}
-{{- $pages := where $pctx.RegularPages "Section" "in" (slice "articles") -}}
+{{- $pages := where $pctx.RegularPages "Section" "in" (slice "posts" "blog" "deals" "articles") -}}
 
-{{/* Fallback: if you keep posts directly in root, exclude non-post types instead */}}
 {{- if eq (len $pages) 0 -}}
-  {{- $pages = where $pctx.RegularPages "Type" "not in" (slice "about") -}}
+  {{- $pages = where $pctx.RegularPages "Type" "not in" (slice "page" "about" "contact") -}}
 {{- end -}}
 
 {{- $limit := .Site.Config.Services.RSS.Limit | default 20 -}}
