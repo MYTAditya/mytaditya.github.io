@@ -1,17 +1,20 @@
 {{- $pctx := . -}}
 {{- if .IsHome -}}{{ $pctx = .Site }}{{- end -}}
-{{- $pages := slice -}}
-{{- if or $.IsHome $.IsSection -}}
-{{- $pages = $pctx.RegularPages -}}
-{{- else -}}
-{{- $pages = $pctx.Pages -}}
+
+{{/* Filter strictly to your target content section and exclude drafts or static pages */}}
+{{- $pages := where $pctx.RegularPages "Section" "in" (slice "articles") -}}
+
+{{/* Fallback: if you keep posts directly in root, exclude non-post types instead */}}
+{{- if eq (len $pages) 0 -}}
+  {{- $pages = where $pctx.RegularPages "Type" "not in" (slice "about") -}}
 {{- end -}}
-{{- $limit := .Site.Config.Services.RSS.Limit -}}
+
+{{- $limit := .Site.Config.Services.RSS.Limit | default 20 -}}
 {{- if ge $limit 1 -}}
-{{- $pages = $pages | first $limit -}}
+  {{- $pages = $pages | first $limit -}}
 {{- end -}}
 {{- printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>{{ if eq .Title .Site.Title }}{{ .Site.Title }}{{ else }}{{ with .Title }}{{ . }} on {{ end }}{{ .Site.Title }}{{ end }}</title>
     <link>{{ .Permalink }}</link>
@@ -29,6 +32,23 @@
       <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>
       <guid>{{ .Permalink }}</guid>
       <description>{{ .Summary | html }}</description>
+      {{- $img := or .Params.image .Params.thumbnail .Params.cover -}}
+      {{- if and (not $img) .Params.images -}}
+        {{- $img = index .Params.images 0 -}}
+      {{- end -}}
+      {{- with $img -}}
+        {{- $imgURL := . | absURL -}}
+        {{- $mime := "image/jpeg" -}}
+        {{- if strings.HasSuffix (lower $imgURL) ".png" -}}
+          {{- $mime = "image/png" -}}
+        {{- else if strings.HasSuffix (lower $imgURL) ".webp" -}}
+          {{- $mime = "image/webp" -}}
+        {{- else if strings.HasSuffix (lower $imgURL) ".gif" -}}
+          {{- $mime = "image/gif" -}}
+        {{- end }}
+      <enclosure url="{{ $imgURL }}" length="0" type="{{ $mime }}" />
+      <media:content url="{{ $imgURL }}" medium="image" type="{{ $mime }}" />
+      {{- end }}
     </item>
     {{- end }}
   </channel>
