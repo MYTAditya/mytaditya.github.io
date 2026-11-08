@@ -4,8 +4,12 @@ title = "Mastered YT Aditya's Official Website"
 theme = "mana"
 
 [outputs]
-  home = ["HTML", "JSON"]
+  home = ["HTML", "JSON", "RSS"]
+  section = ["HTML", "RSS"]
 
+[services.rss]
+  limit = 20
+  
 [params]
   description = "Get the latest official articles from Mastered YT Aditya at here!"
   favicon = "favicon.ico"
