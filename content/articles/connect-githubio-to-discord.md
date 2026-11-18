@@ -75,4 +75,4 @@ This information is valid as of today until [Discord](https://discord.com) makes
 
 # Credits
 
-A huge thanks to [**Priyank Prajapat**](https://priyazsh.me) for the [original tutorial](https://github.com/priyazsh/.well-known)!
+A huge thanks to [**Priyansh Prajapat**](https://priyazsh.me) for the [original tutorial](https://github.com/priyazsh/.well-known)!
