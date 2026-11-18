@@ -7,6 +7,7 @@ image: "https://img.youtube.com/vi/u4ZtHAZ4iZA/0.jpg"
 ---
 
 Don't have a professional domain? Hosting your site on GitHub Pages? Want to connect your domain to Discord? It might seem complicated, but in reality, it’s not difficult at all.
+
 If you host your personal site or portfolio on **GitHub Pages** (`username.github.io`) instead of a paid custom domain, you can still verify and display it on your Discord profile under **Connections**.
 
 # How to Add a github.io Domain to Discord Connections
@@ -63,6 +64,12 @@ Because Discord checks `https://yourusername.github.io/.well-known/discord` to c
 
 1. Switch back to **Discord** and click **Verify**. Your `github.io` domain will now appear on your profile!
 2. *(Optional Cleanup)* Once verified, you can go back to your `.well-known` repository's **Settings** and **delete the repository**. Discord no longer requires the file to stay live unless you change your GitHub username or re-verify the domain later.
+
+---
+
+# Conclusion
+
+This information is valid as of today until [Discord](https://discord.com) makes certain changes. If any information provided in this article becomes outdated, I highly recommend contacting me about it. Please reach out by Email or Discord—links are available in the "About" section of my website.
 
 ---
 
