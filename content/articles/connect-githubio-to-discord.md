@@ -1,6 +1,7 @@
 ---
 date: '2026-11-18T16:50:00+05:30'
 title: 'How to connect GitHub.IO domain with Discord Connections'
+draft: false
 tags: ["discord", "github"]
 image: "https://img.youtube.com/vi/u4ZtHAZ4iZA/0.jpg"
 ---
